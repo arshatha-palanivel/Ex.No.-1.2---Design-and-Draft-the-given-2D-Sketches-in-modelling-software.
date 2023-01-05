@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
- 
+ ![ARSHA ex1 2_page-0001](https://user-images.githubusercontent.com/118682484/210713430-d49e551d-065a-4bcf-9713-b2c97e1ac385.jpg)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
